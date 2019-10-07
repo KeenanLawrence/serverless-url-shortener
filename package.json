@@ -1,0 +1,26 @@
+{
+  "name": "wigroup-url-shortener",
+  "version": "1.0.0",
+  "description": "URL Shortener",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KeenanLawrence/serverless-url-shortener.git"
+  },
+  "keywords": [
+    "serverless",
+    "aws",
+    "lambda",
+    "dynamodb",
+    "apigw",
+    "python"
+  ],
+  "author": "Keenan Lawrence",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/KeenanLawrence/serverless-url-shortener/issues"
+  },
+  "homepage": "https://github.com/KeenanLawrence/serverless-url-shortener#readme"
+}
